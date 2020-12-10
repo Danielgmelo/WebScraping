@@ -1,0 +1,685 @@
+dpto,categoria,sku,descricao,gross_price,price,pagamento,frete,date,day,hour
+perfumes,feminino,46295,La Vie Est Belle L'Éclat Lancôme Eau de Parfum - P,"518,90"," 381,90                            ","7x de R$ 54,56",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,45118,Light Blue Eau Intense Dolce & Gabbana Eau de Toil,," 348,90                            ","6x de R$ 58,15",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,22713,212 VIP Rosé Carolina Herrera Eau de Parfum - Perf,," 289,00                            ","5x de R$ 57,80",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,54424,La Femme L'Eau Prada Eau de Toilette - Perfume Fem,," 619,00                            ","10x de R$ 61,90",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,58593,Daisy Love Marc Jacobs Eau de Toilette – Perfume F,," 600,90                            ","10x de R$ 60,09",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,51908,Orquídea Korres Eau de Cologne - Perfume Feminino ,," 28,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16141,Amour Kenzo Eau de Parfum - Perfume Feminino 30ml,"258,90"," 248,90                            ","4x de R$ 62,23",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,28541,La Nuit Trésor Lancôme Eau de Parfum - Perfume Fem,"298,90"," 249,90                            ","5x de R$ 49,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16121,Flower by KENZO Eau de Parfum - Perfume Feminino 1,"554,90"," 528,90                            ","10x de R$ 52,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16124,Flower by KENZO Légère Eau de Toilette - Perfume F,," 208,90                            ","4x de R$ 52,23",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,48814,Pêssego e Flor de Lótus Orgânica - Body Splash Fem,"39,90"," 24,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,49653,Fleur de Femme La Rive Eau de Parfum - Perfume Fem,"79,90"," 62,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,20607,Chloé Eau de Parfum - Perfume Feminino 30ml,," 371,90                            ","7x de R$ 53,13",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16227,Ange ou Démon Givenchy Eau de Parfum - Perfume Fem,"317,90"," 302,90                            ","6x de R$ 50,48",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,74429,Good Girl Fantastic Pink Collector Edition Carolin,," 528,90                            ","6x de R$ 88,15",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16247,Amarige Givenchy Eau de Toilette - Perfume Feminin,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,48829,My BURBERRY Blush Eau de Parfum - Perfume Feminino,," 468,90                            ","9x de R$ 52,10",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,9912,Light Blue Dolce & Gabbana Eau de Toilette - Perfu,," 571,90                            ","10x de R$ 57,19",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,10020,Classique Jean Paul Gaultier Eau de Parfum - Perfu,"438,90"," 349,90                            ","7x de R$ 49,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,15463,La Vie Est Belle Lancôme Eau de Parfum - Perfume F,," 528,90                            ","10x de R$ 52,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,50770,Giorgio Armani Sì - Gel de Banho 200ml,," 228,90                            ","4x de R$ 57,23",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,51034,212 VIP Carolina Herrera Eau de Parfum - Perfume F,," 598,90                            ","10x de R$ 59,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67013,Black Opium Intense Yves Saint Laurent Eau de Parf,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,45551,Peony e Orange Orgânica Eau de Toilette - Perfume ,," 169,90                            ","3x de R$ 56,63",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16162,Jungle L'Elephant Kenzo Eau de Parfum - Perfume Fe,," 258,90                            ","5x de R$ 51,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,64921,BURBERRY Her Eau de Parfum - Perfume Feminino 50ml,"468,90"," 364,90                            ","7x de R$ 52,13",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,27615,Hugo Ma Vie Femme Hugo Boss Eau de Parfum - Perfum,"604,90"," 467,90                            ","9x de R$ 51,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,20608,Daisy Marc Jacobs Eau de Toilette - Perfume Femini,"419,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67708,Lumière Fiorucci Eau de Cologne - Perfume Feminino,"49,90"," 40,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,22904,La Panthère Cartier Eau de Parfum - Perfume Femini,"828,90"," 688,90                            ","10x de R$ 68,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,48812,Chá Branco e Gengibre Orgânica - Body Splash Femin,"39,90"," 24,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,60036,Sweet Hope La Rive Eau de Parfum - Perfume Feminin,"79,90"," 62,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,57214,English Freesia Yardley Eau de Toilette - Perfume ,"150,90"," 143,90","2x de R$ 71,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,49655,Hello Beauty La Rive Eau de Parfum - Perfume Femin,"79,90"," 62,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,36436,The One Essence Dolce & Gabbana Eau de Parfum - Pe,," 598,90                            ","10x de R$ 59,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16222,Eudemoiselle Givenchy Eau de Toilette - Perfume Fe,"481,90"," 403,90                            ","8x de R$ 50,49",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,74457,Libre Yves Saint Laurent Eau de Parfum - Perfume F,," 578,90                            ","6x de R$ 96,48",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,10037,L'Eau d'Issey Issey Miyake Eau de Toilette - Perfu,," 648,90                            ","10x de R$ 64,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46301,Woman by Ralph Lauren Eau de Parfum - Perfume Femi,"298,90"," 253,90                            ","5x de R$ 50,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,43343,Olympéa Intense Paco Rabanne Eau de Parfum - Perfu,," 548,90                            ","10x de R$ 54,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63920,La Vie Est Belle En Rose Lancôme Eau de Toilette -,"398,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,52878,COACH Floral Eau de Parfum - Perfume Feminino 50ml,"398,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,10254,Zen Shiseido Eau de Parfum - Perfume Feminino 100m,," 648,90                            ","10x de R$ 64,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38656,L’Extase Caresse de Roses Nina Ricci Eau de Parfum,," 499,00                            ","10x de R$ 49,90",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16149,L'Eau Kenzo Pour Femme Eau de Toilette - Perfume F,"208,90"," 198,90                            ","3x de R$ 66,30",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,62731,Baunilha Phebo Eau de Parfum - Perfume Feminino 10,"189,90"," 155,90","3x de R$ 51,97",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,68661,Idôle Lancôme Eau de Parfum - Perfume Feminino 25m,," 278,90                            ","5x de R$ 55,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,7845,Omnia Crystalline Bvlgari Eau de Toilette - Perfum,," 438,90                            ","8x de R$ 54,86",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,51603,Kenzo World Eau de Toilette - Perfume Feminino 30m,"239,90"," 228,90                            ","4x de R$ 57,23",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,42260,Forever and Ever Dior Eau de Toilette - Perfume Fe,," 535,00                            ","10x de R$ 53,50",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,64870,J'adore Roller-Pearl Dior Eau de Parfum - Perfume ,," 199,00                            ","3x de R$ 66,33",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,32732,Dolce Floral Drops Dolce & Gabbana Eau de Toilette,"454,90"," 408,90                            ","8x de R$ 51,11",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38278,Le Parfum Rose Couture Elie Saab Eau de Toilette -,"484,90"," 388,90                            ","7x de R$ 55,56",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67717,Unicorn Mystic Line Pink Fiorucci Eau de Cologne -,"45,90"," 36,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,28807,Laloa in Paris Via Paris Eau de Toilette - Perfume,," 55,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,64109,Black Opium Glow Yves Saint Laurent Eau de Toilett,," 518,90                            ","10x de R$ 51,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,7543,212 VIP Carolina Herrera Eau de Parfum - Perfume F,," 509,00                            ","10x de R$ 50,90",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,7412,Miracle Lancôme Eau de Parfum - Perfume Feminino 3,"468,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,72849,Beauty Swarovski La Rive Eau de Parfum - Perfume F,"149,90"," 133,90","2x de R$ 66,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,43968,I Am Juicy Couture Eau de Parfum - Perfume Feminin,"638,90"," 608,90                            ","10x de R$ 60,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,73697,Mon Guerlain Bloom of Rose Eau de Parfum - Perfume,," 264,90                            ","5x de R$ 52,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16224,Ange ou Démon Le Secret Givenchy Eau de Parfum - P,"302,90"," 287,90                            ","5x de R$ 57,58",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,55116,Black XS For Her Paco Rabanne Eau de Parfum - Perf,," 499,00                            ","10x de R$ 49,90",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,10162,Cabotine Grès Eau de Toilette - Perfume Feminino 1,"378,90"," 272,90                            ","5x de R$ 54,58",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,51923,Lady Million Lucky Paco Rabanne Eau de Parfum - Pe,," 398,90                            ","7x de R$ 56,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67726,Golden Fiorucci Eau de Cologne - Perfume Feminino ,"39,90"," 32,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,56998,CH L'Eau Carolina Herrera Eau de Toilette - Perfum,," 558,90                            ","10x de R$ 55,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67719,Majestic Esmeralda Fiorucci Eau de Cologne - Perfu,"49,90"," 38,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,66891,Kenzo World Fantasy Collector Eau de Toilette - Pe,"397,90"," 378,90                            ","7x de R$ 54,13",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67707,L'Amour Fiorucci Eau de Cologne - Perfume Feminino,," 49,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63309,Kenzo World Intense Eau de Parfum - Perfume Femini,"260,90"," 247,90                            ","4x de R$ 61,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,52276,Cheap and Chic So Real Moschino Eau de Toilette - ,," 148,90","2x de R$ 74,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,47037,Framboesa e Orquídea Orgânica - Body Splash Femini,"39,90"," 24,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67721,Donna Fiorucci Eau de Cologne - Perfume Feminino 1,"39,90"," 31,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38990,Lady Million Privé Paco Rabanne Eau de Parfum - Pe,"329,00"," 328,90                            ","6x de R$ 54,82",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,17475,Baiser Volé Cartier Eau de Parfum - Perfume Femini,"902,90"," 859,90                            ","10x de R$ 85,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,54559,L'Interdit Givenchy Eau de Parfum - Perfume Femini,," 418,90                            ","8x de R$ 52,36",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44865,It's Life Paris Elysees Eau de Toilette - Perfume ,"71,90"," 59,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,55402,Sì Passione Giorgio Armani Eau de Parfum - Perfume,," 448,90                            ","8x de R$ 56,11",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,17068,Pour Femme Dolce & Gabbana Eau de Parfum - Perfume,," 408,90                            ","8x de R$ 51,11",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,64919,La Nuit Trésor Musc Diamant Lancôme Eau de Parfum ,," 398,90                            ","7x de R$ 56,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67725,Delicious Fiorucci Eau de Cologne - Perfume Femini,"39,90"," 31,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,51040,Conjunto Lady Million Privé Paco Rabanne Feminino ,," 439,00                            ","8x de R$ 54,88",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,65633,Ebon I-Scents Eau de Parfum - Perfume Feminino 100,"46,90"," 44,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,41199,Sì Intense Giorgio Armani Eau de Parfum – Perfume ,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,43332,CH Privée Carolina Herrera Eau de Parfum - Perfume,," 409,00                            ","8x de R$ 51,13",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,57213,English Dahlia Yardley Eau de Toilette - Perfume F,"150,90"," 143,90","2x de R$ 71,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,9944,Gucci Guilty Eau de Toilette - Perfume Feminino 30,"328,90"," 253,90                            ","5x de R$ 50,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,26261,Femme de Varens Sensuelle Ulric de Varens Eau de P,"113,90"," 84,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,33053,Lady Emblem Montblanc Eau de Parfum - Perfume Femi,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,10058,Narciso Rodriguez For Her Eau de Toilette - Perfum,," 453,90                            ","9x de R$ 50,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,51055,Aura Mugler Eau de Parfum - Perfume Feminino 90ml,," 588,90                            ","10x de R$ 58,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44273,Rose Goldea Bvlgari Eau de Parfum - Perfume Femini,"468,90"," 363,90                            ","7x de R$ 51,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44377,Rose Extase Nina Ricci Eau de Toilette - Perfume F,"449,00"," 323,90                            ","6x de R$ 53,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,29717,Puccini Lovely Night Arsenal Eau de Parfum - Perfu,," 193,90                            ","3x de R$ 64,63",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,17520,Midnight Fantasy Britney Spears Eau de Parfum - Pe,"355,90"," 351,90                            ","7x de R$ 50,27",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46288,Because It’s You Giorgio Armani Eau de Parfum - Pe,," 538,90                            ","10x de R$ 53,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,10004,Daisy Eau So Fresh Marc Jacobs Eau de Toilette - P,," 433,90                            ","8x de R$ 54,24",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67575,Animale Seduction Femme Eau de Parfum - Perfume Fe,"180,90"," 137,90","2x de R$ 68,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,56140,Love Dust Coscentra Eau de Parfum - Perfume Femini,," 78,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,41204,Black Opium Yves Saint Laurent Eau de Parfum – Per,," 578,90                            ","10x de R$ 57,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63313,Flower by KENZO Eau de Vie Eau de Parfum - Perfume,"248,90"," 237,90                            ","4x de R$ 59,48",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,53760,California Free Wave For Her Hollister Eau de Parf,"168,90"," 116,90","2x de R$ 58,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,53092,Pegolia Anna Pegova Eau de Toilette - Perfume Femi,," 44,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,68488,Code Absolu Giorgio Armani Eau de Parfum - Perfume,," 298,90                            ","5x de R$ 59,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,72482,Sky Di Gioia Giorgio Armani Eau de Parfum - Perfum,"368,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,28576,Brit Rhythm For Her Floral Burberry Eau de Toilett,," 512,90                            ","10x de R$ 51,29",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,68408,PRADA Candy Night Eau de Parfum - Perfume Feminino,"319,00"," 289,00                            ","5x de R$ 57,80",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,56134,Silver Light Woman Coscentra Eau de Parfum - Perfu,," 98,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,17450,Cabotine Rose Grès Eau de Toilette - Perfume Femin,"377,90"," 241,90                            ","4x de R$ 60,48",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,7364,Armani Code Giorgio Armani Eau de Parfum - Perfume,," 298,90                            ","5x de R$ 59,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,26849,Daisy Dream Marc Jacobs Eau de Toilette - Perfume ,"450,90"," 368,90                            ","7x de R$ 52,70",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,36427,L.12.12 Pour Elle Elegant Lacoste Eau de Toilette ,," 428,90                            ","8x de R$ 53,61",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,49488,Girl of Now Elie Saab Eau de Parfum - Perfume Femi,," 549,00                            ","10x de R$ 54,90",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,43905,Dior J’adore Hair Mist - Perfume para Cabelo 40ml,," 235,00                            ","3x de R$ 78,33",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,20898,Dot Marc Jacobs Eau de Parfum - Perfume Feminino 5,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,42258,Dior Addict Eau Fraîche Eau de Toilette - Perfume ,," 535,00                            ","10x de R$ 53,50",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44833,Woman Love Paris Elysees Eau de Toilette - Perfume,"46,90"," 44,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,26263,Femme de Varens Sublime Ulric de Varens Eau de Par,"114,90"," 107,90","2x de R$ 53,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,31506,Hot Couture Givenchy Eau de Parfum - Perfume Femin,," 554,90                            ","10x de R$ 55,49",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,68405,Pure Musc For Her Narciso Rodriguez Eau de Parfum ,," 556,90                            ","10x de R$ 55,69",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,41193,Intense La Vie Est Belle Lancôme Eau de Parfum - P,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67714,Splendeur Paris Fiorucci Eau de Cologne - Perfume ,"49,90"," 39,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,68684,Tommy Girl Tommy Hilfiger Eau de Toilette - Perfum,," 284,90                            ","5x de R$ 56,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,53049,Gold Seduction Women’ Secret Eau de Parfum - Perfu,"167,90"," 134,90","2x de R$ 67,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16471,Isa Ulric de Varens Eau de Parfum - Perfume Femini,," 72,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,34452,Opium Yves Saint Laurent Eau de Toilette - Perfume,," 598,90                            ","10x de R$ 59,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,50066,First Instinct Abercrombie & Fitch Eau de Parfum -,"498,90"," 448,90                            ","8x de R$ 56,11",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,41197,La Nuit Trésor Lancôme Eau de Toilette – Perfume F,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,65639,Acqua I-Scents Eau de Parfum - Perfume Feminino 10,"46,90"," 34,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,49115,Elegance Noir Ana Hickmann Deo Colônia - Perfume F,"79,90"," 63,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,49489,The One Dolce & Gabbana Eau de Toilette - Perfume ,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,9719,Jimmy Choo Eau de Parfum - Perfume Feminino 60ml,"438,90"," 306,90                            ","6x de R$ 51,15",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,10223,Gold-Issime Ulric de Varens Eau de Parfum - Perfum,"135,90"," 109,90","2x de R$ 54,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,21930,Intense Dolce & Gabbana Eau de Parfum - Perfume Fe,," 358,90                            ","7x de R$ 51,27",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,65640,Miss I-Scents Eau de Parfum - Perfume Feminino 100,"46,90"," 37,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69617,Lady Rose Vizcaya Eau de Toilette - Perfume Femini,"69,90"," 40,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,73695,La Petite Robe Noire Guerlain Eau de Toilette - Pe,," 249,90                            ","5x de R$ 49,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16244,Organza Givenchy Eau de Parfum - Perfume Feminino ,," 554,90                            ","10x de R$ 55,49",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,23618,Roses de Chloé Eau de Toilette - Perfume Feminino ,," 589,90                            ","10x de R$ 58,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,26225,Baiser Volé Lys Rose Cartier Eau de Toilette - Per,"545,90"," 519,90                            ","10x de R$ 51,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,71729,L.12.12 Elle Magnetic Lacoste Eau de Parfum - Perf,," 229,90                            ","4x de R$ 57,48",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,51026,Queen of Seduction Absolute Diva Antonio Banderas ,"158,90"," 89,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,17116,Prada Amber Prada Eau de Parfum - Perfume Feminino,," 489,00                            ","9x de R$ 54,33",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,28498,Chloé Love Story Eau de Parfum - Perfume Feminino ,," 714,90                            ","10x de R$ 71,49",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38996,Dance Shakira Eau de Toilette - Perfume Feminino 5,"100,00"," 99,90","2x de R$ 49,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,72852,Lady Diamond Swarovski La Rive  Eau de Parfum - Pe,"149,90"," 129,90","2x de R$ 64,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,54430,Alien Flora Futura Mugler Eau de Toilette - Perfum,"278,90"," 199,90                            ","4x de R$ 49,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46463,Lolita Serum The Body Shop - Perfume Feminino 100m,," 155,00","3x de R$ 51,67",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,7974,Animale Eau de Parfum - Perfume Feminino 100ml,"413,90"," 310,90                            ","6x de R$ 51,82",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69026,Mon GUERLAIN Florale Eau de Parfum - Perfume Femin,," 264,90                            ","5x de R$ 52,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69390,BURBERRY Her Blossom Eau de Toilette - Perfume Fem,," 438,90                            ","8x de R$ 54,86",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44280,COACH Eau de Toilette - Perfume Feminino 30ml,," 268,90                            ","5x de R$ 53,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,32004,Varensia White Ulric de Varens Eau de Parfum - Per,"92,90"," 73,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69895,United Dreams Together For Her Benetton Eau de Toi,," 98,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,52342,Goldea The Roman Night Bvlgari Eau de Parfum - Per,"298,90"," 244,90                            ","4x de R$ 61,23",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67944,Have Fun La Rive Eau de Parfum - Perfume Feminino ,"39,90"," 34,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67700,Paris Fiorucci Eau de Cologne - Perfume Feminino 8,"49,90"," 38,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,53749,La Panthère Cartier Eau de Toilette - Perfume Femi,"722,90"," 506,90                            ","10x de R$ 50,69",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63907,Dolce & Sense Choco/Menthe Paris Elysees Eau de Pa,"51,90"," 35,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46479,Mademoiselle Azzaro L'Eau Très Belle Eau de Toilet,"219,00"," 129,00","2x de R$ 64,50",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,7415,Trésor Midnight Rose Lancôme Eau de Parfum - Perfu,," 448,90                            ","8x de R$ 56,11",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,59729,Catwalk Velvet Orchid Forum Deo Colônia - Perfume ,"89,90"," 67,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,28493,Narciso Narciso Rodriguez Eau de Parfum - Perfume ,"595,90"," 477,90                            ","9x de R$ 53,10",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,54988,Fever Jimmy Choo Eau de Parfum - Perfume Feminino ,"298,90"," 238,90                            ","4x de R$ 59,73",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,28815,Doline Kiss Via Paris Eau de Toilette - Perfume Fe,," 55,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,54775,Puccini Sweetness Blue Arsenal Eau de Parfum - Per,"193,90"," 128,90","2x de R$ 64,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46848,Just For Me Linn Young Coscentra Eau de Parfum - P,"103,90"," 78,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,42351,Cool Ulric de Varens Eau de Toilette - Perfume Fem,"114,90"," 85,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,60488,Narciso Rouge Narciso Rodriguez Eau de Parfum - Pe,"474,90"," 380,90                            ","7x de R$ 54,41",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,41100,Dahlia Divin Le Nectar de Parfum Givenchy Eau de P,"554,90"," 459,90                            ","9x de R$ 51,10",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,74430,Flower by KENZO Poppy Bouquet Kenzo Eau de Parfum ,," 258,90                            ","5x de R$ 51,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,7754,Burberry Brit Eau de Toilette - Perfume Feminino 1,," 488,90                            ","9x de R$ 54,32",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63918,Romantic Night Paris Elysees Eau de Parfum - Perfu,"79,90"," 71,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,50869,Moschino Pink Fresh Couture Eau de Toilette - Perf,"372,90"," 199,90                            ","4x de R$ 49,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63913,Dolce & Sense Vanille/Framboise Paris Elysees Eau ,"51,90"," 38,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44335,Boss The Scent for Her Hugo Boss Eau de Parfum - P,"500,90"," 386,90                            ","7x de R$ 55,27",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63379,Women Calvin Klein Eau de Parfum - Perfume Feminin,," 598,90                            ","10x de R$ 59,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,42233,Hypnotic Poison Dior Eau de Toilette - Perfume Fem,," 425,00                            ","8x de R$ 53,13",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,50703,Cuba Jungle Zebra Women Eau de Parfum - Perfume Fe,"78,90"," 57,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38279,Narciso Poudrée Narciso Rodriguez Eau de Parfum - ,"428,90"," 343,90                            ","6x de R$ 57,32",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67939,The Only One Dolce & Gabbana Eau de Parfum - Perfu,," 578,90                            ","10x de R$ 57,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,29571,Rêve De Varens Ulric de Varens Eau de Parfum - Per,"103,90"," 87,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,36995,Wave For Her Hollister Eau de Parfum - Perfume Fem,"313,90"," 298,90                            ","5x de R$ 59,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,51841,Chloé Signature Eau de Toilette - Perfume Feminino,," 528,90                            ","10x de R$ 52,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,41134,Lancôme La Vie Est Belle - Creme Hidratante 200ml,," 508,90                            ","10x de R$ 50,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,57588,Carat Cartier Eau de Parfum - Perfume Feminino 50m,"714,90"," 550,90                            ","10x de R$ 55,09",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,73755,Eternity Flame for Women Calvin Klein Eau de Parfu,," 518,90                            ","6x de R$ 86,48",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,53895,Very Irrésistible Nova Edição Givenchy Eau de Toil,"470,90"," 468,90                            ","9x de R$ 52,10",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69056,Terracotta Le Parfum Guerlain Eau de Toilette - Pe,," 359,90                            ","7x de R$ 51,41",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,52115,Live Irresistible Blossom Crush Givenchy Eau de To,," 268,90                            ","5x de R$ 53,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,54422,Bella Nina Ricci Eau de Toilette - Perfume Feminin,," 328,90                            ","6x de R$ 54,82",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,40265,L'Eau d'Issey Pure Issey Miyake Eau de Parfum - Pe,"337,90"," 270,90                            ","5x de R$ 54,18",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63914,Dolce & Sense Vanille/Musc Paris Elysees Eau de Pa,"51,90"," 41,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67706,Tentation Fiorucci Eau de Cologne - Perfume Femini,"49,90"," 37,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,54333,Le Parfum In White Elie Saab Eau de Parfum - Perfu,," 579,00                            ","10x de R$ 57,90",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,61111,Her Secret Desire Antonio Banderas Eau de Toilette,," 159,00","3x de R$ 53,00",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,42352,Fresh Ulric de Varens Eau de Toilette - Perfume Fe,"114,90"," 83,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69014,Aqua Allegoria Limon Verde Guerlain Eau de Toilett,," 334,90                            ","6x de R$ 55,82",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44111,Miss DIOR Absolutely Blooming Dior Eau de Parfum -,," 459,00                            ","9x de R$ 51,00",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63381,Bloom Acqua Di Fiori Gucci Eau de Toilette - Perfu,"612,90"," 472,90                            ","9x de R$ 52,54",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,49502,4 Women New Brand Eau de Parfum - Perfume Feminino,," 74,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,32016,Quatre Pour Femme Boucheron Eau de Parfum - Perfum,," 355,90                            ","7x de R$ 50,84",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,64849,1 Million Pacman Limited Edition Paco Rabanne Eau ,," 469,00                            ","9x de R$ 52,11",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,49780,Gucci Bloom Eau de Parfum - Perfume Feminino 30ml,," 388,90                            ","7x de R$ 55,56",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,53890,Live Irrésistible Givenchy Eau de Parfum - Perfume,," 302,90                            ","6x de R$ 50,48",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,62194,Yes I Am Cacharel Eau de Parfum - Perfume Feminino,"468,90"," 374,90                            ","7x de R$ 53,56",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,42701,Classique Essence de Parfum Jean Paul Gaultier Eau,," 449,00                            ","8x de R$ 56,13",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,41512,Eros Pour Femme Versace Eau de Toilette – Perfume ,," 238,90                            ","4x de R$ 59,73",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44749,Silence New Brand Eau de Parfum - Perfume Feminino,," 79,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,22985,Dolce Dolce & Gabbana Eau de Parfum - Perfume Femi,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38275,Moschino Fresh Couture Eau de Toilette - Perfume F,"372,90"," 279,90                            ","5x de R$ 55,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,72853,Golden Woman La Rive Swarovski Eau de Parfum - Per,," 149,90","3x de R$ 49,97",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,42255,Dior Addict Eau de Toilette - Perfume Feminino 100,," 535,00                            ","10x de R$ 53,50",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,27250,Classique Intense Jean Paul Gaultier Eau de Parfum,," 449,00                            ","8x de R$ 56,13",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,8191,Forum Lavanda Eau de Cologne - Perfume Feminino 15,"119,90"," 95,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,36440,Illicit Jimmy Choo Eau de Parfum - Perfume Feminin,," 328,90                            ","6x de R$ 54,82",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38985,Colors Blue Benetton Eau de Toilette - Perfume Fem,"99,00"," 79,00",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,66485,212 NYC Collector Carolina Herrera Eau de Toilette,," 489,00                            ","9x de R$ 54,33",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,24517,Cabochard Grès Eau de Toilette - Perfume Feminino ,"178,90"," 131,90","2x de R$ 65,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67715,Tentation Bleu Fiorucci Eau de Cologne - Perfume F,"49,90"," 38,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,66894,Aura Phebo Eau de Parfum - Perfume Feminino 100ml ,"188,90"," 135,90","2x de R$ 67,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,45168,Fleur Musc For Her Narciso Rodriguez Eau De Parfum,," 391,90                            ","7x de R$ 55,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,53751,Bvlgari Omnia Pink Sapphire Eau de Toilette - Perf,," 348,90                            ","6x de R$ 58,15",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,13832,L'Air du Temps Nina Ricci Eau de Toilette - Perfum,"498,90"," 389,90                            ","7x de R$ 55,70",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,39936,Luna Nina Ricci Eau de Toilette – Perfume Feminino,," 229,00                            ","4x de R$ 57,25",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,10074,Le Parfum Elie Saab Eau de Parfum - Perfume Femini,," 541,90                            ","10x de R$ 54,19",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44333,Bamboo Gucci Eau de Parfum - Perfume Feminino 50ml,," 398,90                            ","7x de R$ 56,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46450,L’Eau d’Issey Pure Issey Miyake Eau de Toilette - ,," 556,90                            ","10x de R$ 55,69",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63317,Live Irrésistible Rosy Crush Givenchy Eau de Parfu,," 418,90                            ","8x de R$ 52,36",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69616,Lady Gold Vizcaya Eau de Toilette - Perfume Femini,"69,90"," 50,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,59732,Dolce Garden Dolce & Gabbana Eau de Parfum - Perfu,," 428,90                            ","8x de R$ 53,61",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67713,Paris Fiorucci Eau de Parfum - Perfume Feminino 80,"79,90"," 64,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,25059,Cheap & Chic Chic Petals Moschino Eau de Toilette ,," 268,90                            ","5x de R$ 53,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,58589,Nomade Chloé Eau de Parfum - Perfume Feminino 50ml,," 528,90                            ","10x de R$ 52,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,7425,Lou Lou Cacharel Eau de Parfum - Perfume Feminino ,"548,90"," 516,90                            ","10x de R$ 51,69",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,24424,Le Parfum Carven Eau de Parfum - Perfume Feminino ,"524,90"," 398,90                            ","7x de R$ 56,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,39779,Goldea Bvlgari Eau de Parfum - Perfume Feminino 90,," 588,90                            ","10x de R$ 58,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,8029,Fantasy Britney Spears Eau de Toilette - Perfume F,," 179,90                            ","3x de R$ 59,97",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46079,Kenzo World Eau de Parfum - Perfume Feminino 75ml,"523,90"," 498,90                            ","9x de R$ 55,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,53345,Dylan Blue Pour Femme Versace Eau de Parfum - Perf,," 438,90                            ","8x de R$ 54,86",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,41032,La Femme PRADA Eau de Parfum – Perfume Feminino 35,," 349,00                            ","6x de R$ 58,17",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,61088,Sweet Dream Shakira Eau de Toilette - Perfume Femi,," 80,00",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,68689,Tommy Girl Now Tommy Hilfiger Eau de Toilette - Pe,," 368,90                            ","7x de R$ 52,70",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,34483,Noa Cacharel Eau de Toilette - Perfume Feminino 50,," 518,90                            ","10x de R$ 51,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67938,The Only One 2 Dolce & Gabbana Eau de Parfum - Per,," 753,90                            ","10x de R$ 75,39",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,59094,J'adore Absolu Dior Eau de Parfum - Perfume Femini,," 499,00                            ","10x de R$ 49,90",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,65626,Yes I Am Pink First Cacharel Eau de Parfum - Perfu,"368,90"," 304,90                            ","6x de R$ 50,82",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,39653,L’Absolu Carven Eau de Parfum - Perfume Feminino 1,"524,90"," 391,90                            ","7x de R$ 55,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,13798,Mademoiselle Ricci Nina Ricci Eau de Parfum - Perf,," 459,00                            ","9x de R$ 51,00",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,45550,Chá Branco e Gengibre Orgânica Eau de Toilette - P,"162,90"," 129,90","2x de R$ 64,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38676,Must de Catier Gold Eau de Parfum - Perfume Femini,"933,90"," 889,90                            ","10x de R$ 88,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,71105,La Belle Jean Paul Gaultier Eau de Parfum - Perfum,," 438,90                            ","6x de R$ 73,15",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,42590,Flower by KENZO Eau de Lumière Eau de Toilette - P,," 438,90                            ","8x de R$ 54,86",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38678,Must de Catier Eau de Toilette - Perfume Feminino ,," 824,90                            ","10x de R$ 82,49",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,9918,The One Dolce & Gabbana Eau de Parfum - Perfume Fe,," 558,90                            ","10x de R$ 55,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,39669,Mini Beauty Ulric de Varens Eau de Parfum - Perfum,"45,90"," 34,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46138,Prada Candy Gloss Eau de Toilette - Perfume Femini,," 458,90                            ","9x de R$ 50,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,24122,Café Expresso For Women Café-Café Eau de Toilette ,"115,90"," 76,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,49651,Emotion La Rive Eau de Parfum - Perfume Feminino 5,"79,90"," 63,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,42353,Tonic Ulric de Varens Eau de Toilette - Perfume Fe,"108,90"," 72,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38603,Flower by KENZO L'Elixir Eau de Parfum - Perfume F,," 575,90                            ","10x de R$ 57,59",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,45504,Black Musk The Body Shop Eau de Toilette - Perfume,," 165,00","3x de R$ 55,00",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67942,Cash Woman La Rive Eau de Parfum - Perfume Feminin,"39,90"," 34,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69030,Mon GUERLAIN Eau de Toilette - Perfume Feminino 50,," 319,90                            ","6x de R$ 53,32",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,53043,Café Intenso Rose Café-Café Eau de Toilette - Perf,"189,90"," 140,90","2x de R$ 70,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,56313,Varens In The Sky Ulric de Varens Eau de Parfum - ,"155,90"," 118,90","2x de R$ 59,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46532,Dance Diamonds Shakira Eau de Toilette - Perfume F,"158,90"," 126,90","2x de R$ 63,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,45286,Mademoiselle ROCHAS Eau de Parfum - Perfume Femini,"461,90"," 318,90                            ","6x de R$ 53,15",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,36428,L.12.12 Pour Elle Sparkling Lacoste Eau de Toilett,," 339,90                            ","6x de R$ 56,65",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38579,A Tentação Juliana Paes Eau de Cologne - Perfume F,"70,00"," 58,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,50709,Cuba Strass Zebra Woman Eau de Parfum - Perfume Fe,"78,90"," 54,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,71373,Nina Rouge Nina Ricci Eau de Toilette - Perfume Fe,," 428,90                            ","8x de R$ 53,61",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38588,Prada Candy Kiss Eau de Parfum - Perfume Feminino ,," 479,00                            ","9x de R$ 53,22",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,42342,Vanilla Blossom Monotheme Eau de Toilette - Perfum,"146,90"," 139,90","2x de R$ 69,95",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,39654,L’Absolu Carven Eau de Parfum - Perfume Feminino 5,"418,90"," 307,90                            ","6x de R$ 51,32",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,65763,Mademoiselle ROCHAS Couture Eau de Parfum - Perfum,"345,90"," 268,90                            ","5x de R$ 53,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,38982,Colors Pink Benetton Eau de Toilette - Perfume Fem,," 99,00",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44360,Izia Sisley Eau de Parfum - Perfume Feminino 30ml,," 489,90                            ","9x de R$ 54,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69013,Aqua Allegoria Mandarine Basilic Guerlain Eau de T,," 334,90                            ","6x de R$ 55,82",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,30545,Soir d'Orient Sisley Eau de Parfum - Perfume Femin,," 1049,90                            ","10x de R$ 104,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,67718,Unicorn Mystic Line Purple Fiorucci Eau de Cologne,"45,90"," 34,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,24427,Carven L'Eau de Toilette - Perfume Feminino 30ml,," 282,90                            ","5x de R$ 56,58",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,50700,Cuba Strass Snake Woman Eau de Parfum - Perfume Fe,"48,90"," 46,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,25820,Rock! Shakira Eau de Toilette - Perfume Feminino 5,," 99,00",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46115,Colors Purple Benetton Eau de Toilette - Perfume F,," 99,00",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,41627,Modern Princess Lanvin Eau de Parfum – Perfume Fem,"240,90"," 205,90                            ","4x de R$ 51,48",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,44000,Puccini Lovely Night Blue Arsenal Eau de Parfum - ,"193,90"," 142,90","2x de R$ 71,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,57472,Cotton Musk Original Ulric de Varens Eau de Parfum,"124,90"," 120,90","2x de R$ 60,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69105,L'Interdit Givenchy Eau de Toilette - Perfume Femi,," 468,90                            ","9x de R$ 52,10",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69049,Insolence Guerlain Eau de Toilette - Perfume Femin,," 399,90                            ","8x de R$ 49,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,22901,Place Vendôme Boucheron Eau de Parfum - Perfume Fe,"313,90"," 298,90                            ","5x de R$ 59,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,65756,Oui Je T'aime Mon Amour Linn Young Coscentra Eau d,"113,90"," 78,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,30736,Love Glam Love Agatha Ruiz de La Prada Eau de Toil,," 79,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,70618,Festival Nite for Her Hollister Eau de Parfum - Pe,," 158,90","3x de R$ 52,97",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,52880,Lady Emblem L'Eau Montblanc Eau de Toilette - Perf,," 268,90                            ","5x de R$ 53,78",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,54772,Cristal Royal Passion Marina de Bourbon Eau de Par,," 328,90                            ","6x de R$ 54,82",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,26341,Eau Tropicale Sisley Eau de Toilette - Perfume Fem,," 619,90                            ","10x de R$ 61,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,61083,Deluxe Juliana Paes Deo Parfum- Perfume Feminino 1,," 100,00","2x de R$ 50,00",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16443,Mini Pink Ulric de Varens Eau de Parfum - Perfume ,"45,90"," 35,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,16501,Rumba Passion Ted Lapidus Eau de Toilette - Perfum,"377,90"," 249,90                            ","5x de R$ 49,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,56953,Quartz Rose Molyneux Eau de Parfum - Perfume Femin,"166,90"," 158,90","3x de R$ 52,97",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,41624,Éclat De Fleurs Lanvin Eau de Parfum – Perfume Fem,"240,90"," 176,90                            ","3x de R$ 58,97",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,36430,Gucci Guilty EAU Eau de Toilette - Perfume Feminin,," 558,90                            ","10x de R$ 55,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,20779,Eau du Soir Sisley Eau de Parfum - Perfume Feminin,," 1839,90                            ","10x de R$ 183,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,22891,Boucheron Pour Femme Eau de Toilette - Perfume Fem,," 402,90                            ","8x de R$ 50,36",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,8847,Eau du Soir Sisley Eau de Parfum - Perfume Feminin,," 1049,90                            ","10x de R$ 104,99",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,53898,Givenchy Very Irrésistible Eau de Parfum - Perfume,," 508,90                            ","10x de R$ 50,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,63915,Romantic Dream Paris Elysees Eau de Parfum - Perfu,"79,90"," 74,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,69047,Idylle Guerlain Eau de Parfum - Perfume Feminino 5,," 489,90                            ","9x de R$ 54,43",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,66893,Lichia e Pimenta Phebo Eau de Parfum - Perfume Fem,"188,90"," 148,90","2x de R$ 74,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,51920,Dream Shakira Eau de Toilette - Perfume Feminino 5,," 99,00",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,48732,Glam Giorgio Beverly Hills Eau de Parfum - Perfume,"140,00"," 94,00",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,70611,Authentic Woman Abercrombie & Fitch Eau de Parfum ,," 348,90                            ","6x de R$ 58,15",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,61107,Ibiza 24/7 Pool Party for Her Pacha Ibiza Eau de T,," 109,00","2x de R$ 54,50",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,14475,Iced by Café Eau de Toilette - Perfume Feminino 50,"157,90"," 134,90","2x de R$ 67,45",False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,51275,Classic Paris New Brand Eau de Parfum - Perfume Fe,"74,90"," 64,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,64259,Pepe Jeans For Her Eau de Parfum - Perfume Feminin,"239,90"," 235,90                            ","4x de R$ 58,98",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,17145,Love Love Love Agatha Ruiz de La Prada Eau de Toil,," 80,00",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,52977,Parfum de Nuit New Brand Eau de Parfum - Perfume F,," 74,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,22897,Jaïpur Bracelet Boucheron Eau de Parfum - Perfume ,"607,90"," 578,90                            ","10x de R$ 57,89",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,45248,Dream Ana Hickmann Eau de Cologne - Perfume Femini,"99,90"," 79,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,50695,Cuba Copacabana Women Eau de Parfum - Perfume Femi,"48,90"," 46,90",,False,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,21485,Ambre Gris Balmain Eau de Parfum - Perfume Feminin,"513,90"," 393,90                            ","7x de R$ 56,27",True,2020-05-05 19:58:04.339532,05/05/20,19:58:04
+perfumes,feminino,46295,La Vie Est Belle L'Éclat Lancôme Eau de Parfum - P,"518,90"," 381,90                            ","7x de R$ 54,56",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45118,Light Blue Eau Intense Dolce & Gabbana Eau de Toil,," 348,90                            ","6x de R$ 58,15",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,22713,212 VIP Rosé Carolina Herrera Eau de Parfum - Perf,," 289,00                            ","5x de R$ 57,80",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,54424,La Femme L'Eau Prada Eau de Toilette - Perfume Fem,," 619,00                            ","10x de R$ 61,90",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,58593,Daisy Love Marc Jacobs Eau de Toilette – Perfume F,," 600,90                            ","10x de R$ 60,09",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51908,Orquídea Korres Eau de Cologne - Perfume Feminino ,," 28,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16141,Amour Kenzo Eau de Parfum - Perfume Feminino 30ml,"258,90"," 248,90                            ","4x de R$ 62,23",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,28541,La Nuit Trésor Lancôme Eau de Parfum - Perfume Fem,"298,90"," 249,90                            ","5x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16121,Flower by KENZO Eau de Parfum - Perfume Feminino 1,"554,90"," 528,90                            ","10x de R$ 52,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16124,Flower by KENZO Légère Eau de Toilette - Perfume F,," 208,90                            ","4x de R$ 52,23",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,48814,Pêssego e Flor de Lótus Orgânica - Body Splash Fem,"39,90"," 24,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,49653,Fleur de Femme La Rive Eau de Parfum - Perfume Fem,"79,90"," 62,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,20607,Chloé Eau de Parfum - Perfume Feminino 30ml,," 371,90                            ","7x de R$ 53,13",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16227,Ange ou Démon Givenchy Eau de Parfum - Perfume Fem,"317,90"," 302,90                            ","6x de R$ 50,48",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,74429,Good Girl Fantastic Pink Collector Edition Carolin,," 528,90                            ","6x de R$ 88,15",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16247,Amarige Givenchy Eau de Toilette - Perfume Feminin,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,48829,My BURBERRY Blush Eau de Parfum - Perfume Feminino,," 468,90                            ","9x de R$ 52,10",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,9912,Light Blue Dolce & Gabbana Eau de Toilette - Perfu,," 571,90                            ","10x de R$ 57,19",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,10020,Classique Jean Paul Gaultier Eau de Parfum - Perfu,"438,90"," 349,90                            ","7x de R$ 49,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,15463,La Vie Est Belle Lancôme Eau de Parfum - Perfume F,," 528,90                            ","10x de R$ 52,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,50770,Giorgio Armani Sì - Gel de Banho 200ml,," 228,90                            ","4x de R$ 57,23",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51034,212 VIP Carolina Herrera Eau de Parfum - Perfume F,," 598,90                            ","10x de R$ 59,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67013,Black Opium Intense Yves Saint Laurent Eau de Parf,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45551,Peony e Orange Orgânica Eau de Toilette - Perfume ,," 169,90                            ","3x de R$ 56,63",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16162,Jungle L'Elephant Kenzo Eau de Parfum - Perfume Fe,," 258,90                            ","5x de R$ 51,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,64921,BURBERRY Her Eau de Parfum - Perfume Feminino 50ml,"468,90"," 364,90                            ","7x de R$ 52,13",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,27615,Hugo Ma Vie Femme Hugo Boss Eau de Parfum - Perfum,"604,90"," 467,90                            ","9x de R$ 51,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,20608,Daisy Marc Jacobs Eau de Toilette - Perfume Femini,"419,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67708,Lumière Fiorucci Eau de Cologne - Perfume Feminino,"49,90"," 40,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,22904,La Panthère Cartier Eau de Parfum - Perfume Femini,"828,90"," 688,90                            ","10x de R$ 68,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,48812,Chá Branco e Gengibre Orgânica - Body Splash Femin,"39,90"," 24,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,60036,Sweet Hope La Rive Eau de Parfum - Perfume Feminin,"79,90"," 62,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,57214,English Freesia Yardley Eau de Toilette - Perfume ,"150,90"," 143,90","2x de R$ 71,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,49655,Hello Beauty La Rive Eau de Parfum - Perfume Femin,"79,90"," 62,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,36436,The One Essence Dolce & Gabbana Eau de Parfum - Pe,," 598,90                            ","10x de R$ 59,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16222,Eudemoiselle Givenchy Eau de Toilette - Perfume Fe,"481,90"," 403,90                            ","8x de R$ 50,49",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,74457,Libre Yves Saint Laurent Eau de Parfum - Perfume F,," 578,90                            ","6x de R$ 96,48",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,10037,L'Eau d'Issey Issey Miyake Eau de Toilette - Perfu,," 648,90                            ","10x de R$ 64,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,46301,Woman by Ralph Lauren Eau de Parfum - Perfume Femi,"298,90"," 253,90                            ","5x de R$ 50,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,43343,Olympéa Intense Paco Rabanne Eau de Parfum - Perfu,," 548,90                            ","10x de R$ 54,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63920,La Vie Est Belle En Rose Lancôme Eau de Toilette -,"398,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,52878,COACH Floral Eau de Parfum - Perfume Feminino 50ml,"398,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,10254,Zen Shiseido Eau de Parfum - Perfume Feminino 100m,," 648,90                            ","10x de R$ 64,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38656,L’Extase Caresse de Roses Nina Ricci Eau de Parfum,," 499,00                            ","10x de R$ 49,90",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16149,L'Eau Kenzo Pour Femme Eau de Toilette - Perfume F,"208,90"," 198,90                            ","3x de R$ 66,30",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,62731,Baunilha Phebo Eau de Parfum - Perfume Feminino 10,"189,90"," 155,90","3x de R$ 51,97",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,68661,Idôle Lancôme Eau de Parfum - Perfume Feminino 25m,," 278,90                            ","5x de R$ 55,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7845,Omnia Crystalline Bvlgari Eau de Toilette - Perfum,," 438,90                            ","8x de R$ 54,86",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51603,Kenzo World Eau de Toilette - Perfume Feminino 30m,"239,90"," 228,90                            ","4x de R$ 57,23",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42260,Forever and Ever Dior Eau de Toilette - Perfume Fe,," 535,00                            ","10x de R$ 53,50",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,64870,J'adore Roller-Pearl Dior Eau de Parfum - Perfume ,," 199,00                            ","3x de R$ 66,33",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,32732,Dolce Floral Drops Dolce & Gabbana Eau de Toilette,"454,90"," 408,90                            ","8x de R$ 51,11",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38278,Le Parfum Rose Couture Elie Saab Eau de Toilette -,"484,90"," 388,90                            ","7x de R$ 55,56",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67717,Unicorn Mystic Line Pink Fiorucci Eau de Cologne -,"45,90"," 36,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,28807,Laloa in Paris Via Paris Eau de Toilette - Perfume,," 55,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,64109,Black Opium Glow Yves Saint Laurent Eau de Toilett,," 518,90                            ","10x de R$ 51,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7543,212 VIP Carolina Herrera Eau de Parfum - Perfume F,," 509,00                            ","10x de R$ 50,90",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7412,Miracle Lancôme Eau de Parfum - Perfume Feminino 3,"468,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,72849,Beauty Swarovski La Rive Eau de Parfum - Perfume F,"149,90"," 133,90","2x de R$ 66,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,43968,I Am Juicy Couture Eau de Parfum - Perfume Feminin,"638,90"," 608,90                            ","10x de R$ 60,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,73697,Mon Guerlain Bloom of Rose Eau de Parfum - Perfume,," 264,90                            ","5x de R$ 52,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16224,Ange ou Démon Le Secret Givenchy Eau de Parfum - P,"302,90"," 287,90                            ","5x de R$ 57,58",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,55116,Black XS For Her Paco Rabanne Eau de Parfum - Perf,," 499,00                            ","10x de R$ 49,90",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,10162,Cabotine Grès Eau de Toilette - Perfume Feminino 1,"378,90"," 272,90                            ","5x de R$ 54,58",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51923,Lady Million Lucky Paco Rabanne Eau de Parfum - Pe,," 398,90                            ","7x de R$ 56,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67726,Golden Fiorucci Eau de Cologne - Perfume Feminino ,"39,90"," 32,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,56998,CH L'Eau Carolina Herrera Eau de Toilette - Perfum,," 558,90                            ","10x de R$ 55,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67719,Majestic Esmeralda Fiorucci Eau de Cologne - Perfu,"49,90"," 38,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,66891,Kenzo World Fantasy Collector Eau de Toilette - Pe,"397,90"," 378,90                            ","7x de R$ 54,13",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67707,L'Amour Fiorucci Eau de Cologne - Perfume Feminino,," 49,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63309,Kenzo World Intense Eau de Parfum - Perfume Femini,"260,90"," 247,90                            ","4x de R$ 61,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,52276,Cheap and Chic So Real Moschino Eau de Toilette - ,," 148,90","2x de R$ 74,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,47037,Framboesa e Orquídea Orgânica - Body Splash Femini,"39,90"," 24,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67721,Donna Fiorucci Eau de Cologne - Perfume Feminino 1,"39,90"," 31,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38990,Lady Million Privé Paco Rabanne Eau de Parfum - Pe,"329,00"," 328,90                            ","6x de R$ 54,82",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,17475,Baiser Volé Cartier Eau de Parfum - Perfume Femini,"902,90"," 859,90                            ","10x de R$ 85,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,54559,L'Interdit Givenchy Eau de Parfum - Perfume Femini,," 418,90                            ","8x de R$ 52,36",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44865,It's Life Paris Elysees Eau de Toilette - Perfume ,"71,90"," 59,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,55402,Sì Passione Giorgio Armani Eau de Parfum - Perfume,," 448,90                            ","8x de R$ 56,11",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,17068,Pour Femme Dolce & Gabbana Eau de Parfum - Perfume,," 408,90                            ","8x de R$ 51,11",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,64919,La Nuit Trésor Musc Diamant Lancôme Eau de Parfum ,," 398,90                            ","7x de R$ 56,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67725,Delicious Fiorucci Eau de Cologne - Perfume Femini,"39,90"," 31,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51040,Conjunto Lady Million Privé Paco Rabanne Feminino ,," 439,00                            ","8x de R$ 54,88",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,65633,Ebon I-Scents Eau de Parfum - Perfume Feminino 100,"46,90"," 44,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,41199,Sì Intense Giorgio Armani Eau de Parfum – Perfume ,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,43332,CH Privée Carolina Herrera Eau de Parfum - Perfume,," 409,00                            ","8x de R$ 51,13",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,57213,English Dahlia Yardley Eau de Toilette - Perfume F,"150,90"," 143,90","2x de R$ 71,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,9944,Gucci Guilty Eau de Toilette - Perfume Feminino 30,"328,90"," 253,90                            ","5x de R$ 50,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,26261,Femme de Varens Sensuelle Ulric de Varens Eau de P,"113,90"," 84,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,33053,Lady Emblem Montblanc Eau de Parfum - Perfume Femi,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,10058,Narciso Rodriguez For Her Eau de Toilette - Perfum,," 453,90                            ","9x de R$ 50,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51055,Aura Mugler Eau de Parfum - Perfume Feminino 90ml,," 588,90                            ","10x de R$ 58,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44273,Rose Goldea Bvlgari Eau de Parfum - Perfume Femini,"468,90"," 363,90                            ","7x de R$ 51,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44377,Rose Extase Nina Ricci Eau de Toilette - Perfume F,"449,00"," 323,90                            ","6x de R$ 53,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,29717,Puccini Lovely Night Arsenal Eau de Parfum - Perfu,," 193,90                            ","3x de R$ 64,63",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,17520,Midnight Fantasy Britney Spears Eau de Parfum - Pe,"355,90"," 351,90                            ","7x de R$ 50,27",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,46288,Because It’s You Giorgio Armani Eau de Parfum - Pe,," 538,90                            ","10x de R$ 53,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,10004,Daisy Eau So Fresh Marc Jacobs Eau de Toilette - P,," 433,90                            ","8x de R$ 54,24",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67575,Animale Seduction Femme Eau de Parfum - Perfume Fe,"180,90"," 137,90","2x de R$ 68,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,56140,Love Dust Coscentra Eau de Parfum - Perfume Femini,," 78,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,41204,Black Opium Yves Saint Laurent Eau de Parfum – Per,," 578,90                            ","10x de R$ 57,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63313,Flower by KENZO Eau de Vie Eau de Parfum - Perfume,"248,90"," 237,90                            ","4x de R$ 59,48",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53760,California Free Wave For Her Hollister Eau de Parf,"168,90"," 116,90","2x de R$ 58,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53092,Pegolia Anna Pegova Eau de Toilette - Perfume Femi,," 44,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,68488,Code Absolu Giorgio Armani Eau de Parfum - Perfume,," 298,90                            ","5x de R$ 59,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,72482,Sky Di Gioia Giorgio Armani Eau de Parfum - Perfum,"368,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,28576,Brit Rhythm For Her Floral Burberry Eau de Toilett,," 512,90                            ","10x de R$ 51,29",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,68408,PRADA Candy Night Eau de Parfum - Perfume Feminino,"319,00"," 289,00                            ","5x de R$ 57,80",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,56134,Silver Light Woman Coscentra Eau de Parfum - Perfu,," 98,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,17450,Cabotine Rose Grès Eau de Toilette - Perfume Femin,"377,90"," 241,90                            ","4x de R$ 60,48",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7364,Armani Code Giorgio Armani Eau de Parfum - Perfume,," 298,90                            ","5x de R$ 59,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,26849,Daisy Dream Marc Jacobs Eau de Toilette - Perfume ,"450,90"," 368,90                            ","7x de R$ 52,70",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,36427,L.12.12 Pour Elle Elegant Lacoste Eau de Toilette ,," 428,90                            ","8x de R$ 53,61",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,49488,Girl of Now Elie Saab Eau de Parfum - Perfume Femi,," 549,00                            ","10x de R$ 54,90",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,43905,Dior J’adore Hair Mist - Perfume para Cabelo 40ml,," 235,00                            ","3x de R$ 78,33",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,20898,Dot Marc Jacobs Eau de Parfum - Perfume Feminino 5,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42258,Dior Addict Eau Fraîche Eau de Toilette - Perfume ,," 535,00                            ","10x de R$ 53,50",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44833,Woman Love Paris Elysees Eau de Toilette - Perfume,"46,90"," 44,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,26263,Femme de Varens Sublime Ulric de Varens Eau de Par,"114,90"," 107,90","2x de R$ 53,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,31506,Hot Couture Givenchy Eau de Parfum - Perfume Femin,," 554,90                            ","10x de R$ 55,49",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,68405,Pure Musc For Her Narciso Rodriguez Eau de Parfum ,," 556,90                            ","10x de R$ 55,69",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,41193,Intense La Vie Est Belle Lancôme Eau de Parfum - P,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67714,Splendeur Paris Fiorucci Eau de Cologne - Perfume ,"49,90"," 39,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,68684,Tommy Girl Tommy Hilfiger Eau de Toilette - Perfum,," 284,90                            ","5x de R$ 56,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53049,Gold Seduction Women’ Secret Eau de Parfum - Perfu,"167,90"," 134,90","2x de R$ 67,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16471,Isa Ulric de Varens Eau de Parfum - Perfume Femini,," 72,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,34452,Opium Yves Saint Laurent Eau de Toilette - Perfume,," 598,90                            ","10x de R$ 59,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,50066,First Instinct Abercrombie & Fitch Eau de Parfum -,"498,90"," 448,90                            ","8x de R$ 56,11",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,41197,La Nuit Trésor Lancôme Eau de Toilette – Perfume F,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,65639,Acqua I-Scents Eau de Parfum - Perfume Feminino 10,"46,90"," 34,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,49115,Elegance Noir Ana Hickmann Deo Colônia - Perfume F,"79,90"," 63,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,49489,The One Dolce & Gabbana Eau de Toilette - Perfume ,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,9719,Jimmy Choo Eau de Parfum - Perfume Feminino 60ml,"438,90"," 306,90                            ","6x de R$ 51,15",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,10223,Gold-Issime Ulric de Varens Eau de Parfum - Perfum,"135,90"," 109,90","2x de R$ 54,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,21930,Intense Dolce & Gabbana Eau de Parfum - Perfume Fe,," 358,90                            ","7x de R$ 51,27",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,65640,Miss I-Scents Eau de Parfum - Perfume Feminino 100,"46,90"," 37,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69617,Lady Rose Vizcaya Eau de Toilette - Perfume Femini,"69,90"," 40,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,73695,La Petite Robe Noire Guerlain Eau de Toilette - Pe,," 249,90                            ","5x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16244,Organza Givenchy Eau de Parfum - Perfume Feminino ,," 554,90                            ","10x de R$ 55,49",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,23618,Roses de Chloé Eau de Toilette - Perfume Feminino ,," 589,90                            ","10x de R$ 58,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,26225,Baiser Volé Lys Rose Cartier Eau de Toilette - Per,"545,90"," 519,90                            ","10x de R$ 51,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,71729,L.12.12 Elle Magnetic Lacoste Eau de Parfum - Perf,," 229,90                            ","4x de R$ 57,48",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51026,Queen of Seduction Absolute Diva Antonio Banderas ,"158,90"," 89,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,17116,Prada Amber Prada Eau de Parfum - Perfume Feminino,," 489,00                            ","9x de R$ 54,33",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,28498,Chloé Love Story Eau de Parfum - Perfume Feminino ,," 714,90                            ","10x de R$ 71,49",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38996,Dance Shakira Eau de Toilette - Perfume Feminino 5,"100,00"," 99,90","2x de R$ 49,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,72852,Lady Diamond Swarovski La Rive  Eau de Parfum - Pe,"149,90"," 129,90","2x de R$ 64,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,54430,Alien Flora Futura Mugler Eau de Toilette - Perfum,"278,90"," 199,90                            ","4x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,46463,Lolita Serum The Body Shop - Perfume Feminino 100m,," 155,00","3x de R$ 51,67",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7974,Animale Eau de Parfum - Perfume Feminino 100ml,"413,90"," 310,90                            ","6x de R$ 51,82",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69026,Mon GUERLAIN Florale Eau de Parfum - Perfume Femin,," 264,90                            ","5x de R$ 52,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69390,BURBERRY Her Blossom Eau de Toilette - Perfume Fem,," 438,90                            ","8x de R$ 54,86",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44280,COACH Eau de Toilette - Perfume Feminino 30ml,," 268,90                            ","5x de R$ 53,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,32004,Varensia White Ulric de Varens Eau de Parfum - Per,"92,90"," 73,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69895,United Dreams Together For Her Benetton Eau de Toi,," 98,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,52342,Goldea The Roman Night Bvlgari Eau de Parfum - Per,"298,90"," 244,90                            ","4x de R$ 61,23",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67944,Have Fun La Rive Eau de Parfum - Perfume Feminino ,"39,90"," 34,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67700,Paris Fiorucci Eau de Cologne - Perfume Feminino 8,"49,90"," 38,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53749,La Panthère Cartier Eau de Toilette - Perfume Femi,"722,90"," 506,90                            ","10x de R$ 50,69",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63907,Dolce & Sense Choco/Menthe Paris Elysees Eau de Pa,"51,90"," 35,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,46479,Mademoiselle Azzaro L'Eau Très Belle Eau de Toilet,"219,00"," 129,00","2x de R$ 64,50",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7415,Trésor Midnight Rose Lancôme Eau de Parfum - Perfu,," 448,90                            ","8x de R$ 56,11",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,59729,Catwalk Velvet Orchid Forum Deo Colônia - Perfume ,"89,90"," 67,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,28493,Narciso Narciso Rodriguez Eau de Parfum - Perfume ,"595,90"," 477,90                            ","9x de R$ 53,10",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,54988,Fever Jimmy Choo Eau de Parfum - Perfume Feminino ,"298,90"," 238,90                            ","4x de R$ 59,73",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,28815,Doline Kiss Via Paris Eau de Toilette - Perfume Fe,," 55,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,54775,Puccini Sweetness Blue Arsenal Eau de Parfum - Per,"193,90"," 128,90","2x de R$ 64,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,46848,Just For Me Linn Young Coscentra Eau de Parfum - P,"103,90"," 78,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42351,Cool Ulric de Varens Eau de Toilette - Perfume Fem,"114,90"," 85,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,60488,Narciso Rouge Narciso Rodriguez Eau de Parfum - Pe,"474,90"," 380,90                            ","7x de R$ 54,41",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,41100,Dahlia Divin Le Nectar de Parfum Givenchy Eau de P,"554,90"," 459,90                            ","9x de R$ 51,10",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,74430,Flower by KENZO Poppy Bouquet Kenzo Eau de Parfum ,," 258,90                            ","5x de R$ 51,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7754,Burberry Brit Eau de Toilette - Perfume Feminino 1,," 488,90                            ","9x de R$ 54,32",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63918,Romantic Night Paris Elysees Eau de Parfum - Perfu,"79,90"," 71,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,50869,Moschino Pink Fresh Couture Eau de Toilette - Perf,"372,90"," 199,90                            ","4x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63913,Dolce & Sense Vanille/Framboise Paris Elysees Eau ,"51,90"," 38,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44335,Boss The Scent for Her Hugo Boss Eau de Parfum - P,"500,90"," 386,90                            ","7x de R$ 55,27",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63379,Women Calvin Klein Eau de Parfum - Perfume Feminin,," 598,90                            ","10x de R$ 59,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42233,Hypnotic Poison Dior Eau de Toilette - Perfume Fem,," 425,00                            ","8x de R$ 53,13",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,50703,Cuba Jungle Zebra Women Eau de Parfum - Perfume Fe,"78,90"," 57,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38279,Narciso Poudrée Narciso Rodriguez Eau de Parfum - ,"428,90"," 343,90                            ","6x de R$ 57,32",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67939,The Only One Dolce & Gabbana Eau de Parfum - Perfu,," 578,90                            ","10x de R$ 57,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,29571,Rêve De Varens Ulric de Varens Eau de Parfum - Per,"103,90"," 87,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,36995,Wave For Her Hollister Eau de Parfum - Perfume Fem,"313,90"," 298,90                            ","5x de R$ 59,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51841,Chloé Signature Eau de Toilette - Perfume Feminino,," 528,90                            ","10x de R$ 52,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,41134,Lancôme La Vie Est Belle - Creme Hidratante 200ml,," 508,90                            ","10x de R$ 50,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,57588,Carat Cartier Eau de Parfum - Perfume Feminino 50m,"714,90"," 550,90                            ","10x de R$ 55,09",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,73755,Eternity Flame for Women Calvin Klein Eau de Parfu,," 518,90                            ","6x de R$ 86,48",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53895,Very Irrésistible Nova Edição Givenchy Eau de Toil,"470,90"," 468,90                            ","9x de R$ 52,10",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69056,Terracotta Le Parfum Guerlain Eau de Toilette - Pe,," 359,90                            ","7x de R$ 51,41",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,52115,Live Irresistible Blossom Crush Givenchy Eau de To,," 268,90                            ","5x de R$ 53,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,54422,Bella Nina Ricci Eau de Toilette - Perfume Feminin,," 328,90                            ","6x de R$ 54,82",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,40265,L'Eau d'Issey Pure Issey Miyake Eau de Parfum - Pe,"337,90"," 270,90                            ","5x de R$ 54,18",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63914,Dolce & Sense Vanille/Musc Paris Elysees Eau de Pa,"51,90"," 41,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67706,Tentation Fiorucci Eau de Cologne - Perfume Femini,"49,90"," 37,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,54333,Le Parfum In White Elie Saab Eau de Parfum - Perfu,," 579,00                            ","10x de R$ 57,90",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,61111,Her Secret Desire Antonio Banderas Eau de Toilette,," 159,00","3x de R$ 53,00",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42352,Fresh Ulric de Varens Eau de Toilette - Perfume Fe,"114,90"," 83,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69014,Aqua Allegoria Limon Verde Guerlain Eau de Toilett,," 334,90                            ","6x de R$ 55,82",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44111,Miss DIOR Absolutely Blooming Dior Eau de Parfum -,," 459,00                            ","9x de R$ 51,00",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,49502,4 Women New Brand Eau de Parfum - Perfume Feminino,," 74,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63381,Bloom Acqua Di Fiori Gucci Eau de Toilette - Perfu,"612,90"," 472,90                            ","9x de R$ 52,54",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,32016,Quatre Pour Femme Boucheron Eau de Parfum - Perfum,," 355,90                            ","7x de R$ 50,84",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,64849,1 Million Pacman Limited Edition Paco Rabanne Eau ,," 469,00                            ","9x de R$ 52,11",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,49780,Gucci Bloom Eau de Parfum - Perfume Feminino 30ml,," 388,90                            ","7x de R$ 55,56",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53890,Live Irrésistible Givenchy Eau de Parfum - Perfume,," 302,90                            ","6x de R$ 50,48",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44749,Silence New Brand Eau de Parfum - Perfume Feminino,," 79,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,62194,Yes I Am Cacharel Eau de Parfum - Perfume Feminino,"468,90"," 374,90                            ","7x de R$ 53,56",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42701,Classique Essence de Parfum Jean Paul Gaultier Eau,," 449,00                            ","8x de R$ 56,13",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,41512,Eros Pour Femme Versace Eau de Toilette – Perfume ,," 238,90                            ","4x de R$ 59,73",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,22985,Dolce Dolce & Gabbana Eau de Parfum - Perfume Femi,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38275,Moschino Fresh Couture Eau de Toilette - Perfume F,"372,90"," 279,90                            ","5x de R$ 55,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,72853,Golden Woman La Rive Swarovski Eau de Parfum - Per,," 149,90","3x de R$ 49,97",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42255,Dior Addict Eau de Toilette - Perfume Feminino 100,," 535,00                            ","10x de R$ 53,50",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,8191,Forum Lavanda Eau de Cologne - Perfume Feminino 15,"119,90"," 95,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,27250,Classique Intense Jean Paul Gaultier Eau de Parfum,," 449,00                            ","8x de R$ 56,13",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,36440,Illicit Jimmy Choo Eau de Parfum - Perfume Feminin,," 328,90                            ","6x de R$ 54,82",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38985,Colors Blue Benetton Eau de Toilette - Perfume Fem,"99,00"," 79,00",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,66485,212 NYC Collector Carolina Herrera Eau de Toilette,," 489,00                            ","9x de R$ 54,33",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,24517,Cabochard Grès Eau de Toilette - Perfume Feminino ,"178,90"," 131,90","2x de R$ 65,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67715,Tentation Bleu Fiorucci Eau de Cologne - Perfume F,"49,90"," 38,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,66894,Aura Phebo Eau de Parfum - Perfume Feminino 100ml ,"188,90"," 135,90","2x de R$ 67,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45168,Fleur Musc For Her Narciso Rodriguez Eau De Parfum,," 391,90                            ","7x de R$ 55,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53751,Bvlgari Omnia Pink Sapphire Eau de Toilette - Perf,," 348,90                            ","6x de R$ 58,15",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,13832,L'Air du Temps Nina Ricci Eau de Toilette - Perfum,"498,90"," 389,90                            ","7x de R$ 55,70",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,39936,Luna Nina Ricci Eau de Toilette – Perfume Feminino,," 229,00                            ","4x de R$ 57,25",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,10074,Le Parfum Elie Saab Eau de Parfum - Perfume Femini,," 541,90                            ","10x de R$ 54,19",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44333,Bamboo Gucci Eau de Parfum - Perfume Feminino 50ml,," 398,90                            ","7x de R$ 56,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,46450,L’Eau d’Issey Pure Issey Miyake Eau de Toilette - ,," 556,90                            ","10x de R$ 55,69",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63317,Live Irrésistible Rosy Crush Givenchy Eau de Parfu,," 418,90                            ","8x de R$ 52,36",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69616,Lady Gold Vizcaya Eau de Toilette - Perfume Femini,"69,90"," 50,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,59732,Dolce Garden Dolce & Gabbana Eau de Parfum - Perfu,," 428,90                            ","8x de R$ 53,61",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67713,Paris Fiorucci Eau de Parfum - Perfume Feminino 80,"79,90"," 64,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,25059,Cheap & Chic Chic Petals Moschino Eau de Toilette ,," 268,90                            ","5x de R$ 53,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,58589,Nomade Chloé Eau de Parfum - Perfume Feminino 50ml,," 528,90                            ","10x de R$ 52,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7425,Lou Lou Cacharel Eau de Parfum - Perfume Feminino ,"548,90"," 516,90                            ","10x de R$ 51,69",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,24424,Le Parfum Carven Eau de Parfum - Perfume Feminino ,"524,90"," 398,90                            ","7x de R$ 56,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,41033,La Femme PRADA Eau de Parfum – Perfume Feminino 50,," 489,00                            ","9x de R$ 54,33",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,39779,Goldea Bvlgari Eau de Parfum - Perfume Feminino 90,," 588,90                            ","10x de R$ 58,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,8029,Fantasy Britney Spears Eau de Toilette - Perfume F,," 179,90                            ","3x de R$ 59,97",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,46079,Kenzo World Eau de Parfum - Perfume Feminino 75ml,"523,90"," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53345,Dylan Blue Pour Femme Versace Eau de Parfum - Perf,," 438,90                            ","8x de R$ 54,86",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,61088,Sweet Dream Shakira Eau de Toilette - Perfume Femi,," 80,00",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,68689,Tommy Girl Now Tommy Hilfiger Eau de Toilette - Pe,," 368,90                            ","7x de R$ 52,70",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,34483,Noa Cacharel Eau de Toilette - Perfume Feminino 50,," 518,90                            ","10x de R$ 51,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67938,The Only One 2 Dolce & Gabbana Eau de Parfum - Per,," 753,90                            ","10x de R$ 75,39",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,59094,J'adore Absolu Dior Eau de Parfum - Perfume Femini,," 499,00                            ","10x de R$ 49,90",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,65626,Yes I Am Pink First Cacharel Eau de Parfum - Perfu,"368,90"," 304,90                            ","6x de R$ 50,82",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,39653,L’Absolu Carven Eau de Parfum - Perfume Feminino 1,"524,90"," 391,90                            ","7x de R$ 55,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,13798,Mademoiselle Ricci Nina Ricci Eau de Parfum - Perf,," 459,00                            ","9x de R$ 51,00",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45550,Chá Branco e Gengibre Orgânica Eau de Toilette - P,"162,90"," 129,90","2x de R$ 64,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38676,Must de Catier Gold Eau de Parfum - Perfume Femini,"933,90"," 889,90                            ","10x de R$ 88,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,71105,La Belle Jean Paul Gaultier Eau de Parfum - Perfum,," 438,90                            ","6x de R$ 73,15",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42590,Flower by KENZO Eau de Lumière Eau de Toilette - P,," 438,90                            ","8x de R$ 54,86",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38678,Must de Catier Eau de Toilette - Perfume Feminino ,," 824,90                            ","10x de R$ 82,49",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,9918,The One Dolce & Gabbana Eau de Parfum - Perfume Fe,," 558,90                            ","10x de R$ 55,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,39669,Mini Beauty Ulric de Varens Eau de Parfum - Perfum,"45,90"," 34,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,46138,Prada Candy Gloss Eau de Toilette - Perfume Femini,," 458,90                            ","9x de R$ 50,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,24122,Café Expresso For Women Café-Café Eau de Toilette ,"115,90"," 76,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,49651,Emotion La Rive Eau de Parfum - Perfume Feminino 5,"79,90"," 63,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42353,Tonic Ulric de Varens Eau de Toilette - Perfume Fe,"108,90"," 72,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38603,Flower by KENZO L'Elixir Eau de Parfum - Perfume F,," 575,90                            ","10x de R$ 57,59",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45504,Black Musk The Body Shop Eau de Toilette - Perfume,," 165,00","3x de R$ 55,00",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67942,Cash Woman La Rive Eau de Parfum - Perfume Feminin,"39,90"," 34,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69030,Mon GUERLAIN Eau de Toilette - Perfume Feminino 50,," 319,90                            ","6x de R$ 53,32",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53043,Café Intenso Rose Café-Café Eau de Toilette - Perf,"189,90"," 140,90","2x de R$ 70,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,56313,Varens In The Sky Ulric de Varens Eau de Parfum - ,"155,90"," 118,90","2x de R$ 59,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,46532,Dance Diamonds Shakira Eau de Toilette - Perfume F,"158,90"," 126,90","2x de R$ 63,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45286,Mademoiselle ROCHAS Eau de Parfum - Perfume Femini,"461,90"," 318,90                            ","6x de R$ 53,15",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,36428,L.12.12 Pour Elle Sparkling Lacoste Eau de Toilett,," 339,90                            ","6x de R$ 56,65",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38579,A Tentação Juliana Paes Eau de Cologne - Perfume F,"70,00"," 58,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,50709,Cuba Strass Zebra Woman Eau de Parfum - Perfume Fe,"78,90"," 54,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,71373,Nina Rouge Nina Ricci Eau de Toilette - Perfume Fe,," 428,90                            ","8x de R$ 53,61",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38588,Prada Candy Kiss Eau de Parfum - Perfume Feminino ,," 479,00                            ","9x de R$ 53,22",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42342,Vanilla Blossom Monotheme Eau de Toilette - Perfum,"146,90"," 139,90","2x de R$ 69,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,39654,L’Absolu Carven Eau de Parfum - Perfume Feminino 5,"418,90"," 307,90                            ","6x de R$ 51,32",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,65763,Mademoiselle ROCHAS Couture Eau de Parfum - Perfum,"345,90"," 268,90                            ","5x de R$ 53,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,38982,Colors Pink Benetton Eau de Toilette - Perfume Fem,," 99,00",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44360,Izia Sisley Eau de Parfum - Perfume Feminino 30ml,," 489,90                            ","9x de R$ 54,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69013,Aqua Allegoria Mandarine Basilic Guerlain Eau de T,," 334,90                            ","6x de R$ 55,82",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,30545,Soir d'Orient Sisley Eau de Parfum - Perfume Femin,," 1049,90                            ","10x de R$ 104,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67718,Unicorn Mystic Line Purple Fiorucci Eau de Cologne,"45,90"," 34,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,24427,Carven L'Eau de Toilette - Perfume Feminino 30ml,," 282,90                            ","5x de R$ 56,58",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,50700,Cuba Strass Snake Woman Eau de Parfum - Perfume Fe,"48,90"," 46,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,25820,Rock! Shakira Eau de Toilette - Perfume Feminino 5,," 99,00",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,46115,Colors Purple Benetton Eau de Toilette - Perfume F,," 99,00",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,41627,Modern Princess Lanvin Eau de Parfum – Perfume Fem,"240,90"," 205,90                            ","4x de R$ 51,48",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44000,Puccini Lovely Night Blue Arsenal Eau de Parfum - ,"193,90"," 142,90","2x de R$ 71,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,57472,Cotton Musk Original Ulric de Varens Eau de Parfum,"124,90"," 120,90","2x de R$ 60,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69105,L'Interdit Givenchy Eau de Toilette - Perfume Femi,," 468,90                            ","9x de R$ 52,10",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69049,Insolence Guerlain Eau de Toilette - Perfume Femin,," 399,90                            ","8x de R$ 49,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,22901,Place Vendôme Boucheron Eau de Parfum - Perfume Fe,"313,90"," 298,90                            ","5x de R$ 59,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,65756,Oui Je T'aime Mon Amour Linn Young Coscentra Eau d,"113,90"," 78,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,30736,Love Glam Love Agatha Ruiz de La Prada Eau de Toil,," 79,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,70618,Festival Nite for Her Hollister Eau de Parfum - Pe,," 158,90","3x de R$ 52,97",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,52880,Lady Emblem L'Eau Montblanc Eau de Toilette - Perf,," 268,90                            ","5x de R$ 53,78",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,54772,Cristal Royal Passion Marina de Bourbon Eau de Par,," 328,90                            ","6x de R$ 54,82",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,26341,Eau Tropicale Sisley Eau de Toilette - Perfume Fem,," 619,90                            ","10x de R$ 61,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,61083,Deluxe Juliana Paes Deo Parfum- Perfume Feminino 1,," 100,00","2x de R$ 50,00",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16443,Mini Pink Ulric de Varens Eau de Parfum - Perfume ,"45,90"," 35,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16501,Rumba Passion Ted Lapidus Eau de Toilette - Perfum,"377,90"," 249,90                            ","5x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,56953,Quartz Rose Molyneux Eau de Parfum - Perfume Femin,"166,90"," 158,90","3x de R$ 52,97",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,41624,Éclat De Fleurs Lanvin Eau de Parfum – Perfume Fem,"240,90"," 176,90                            ","3x de R$ 58,97",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,36430,Gucci Guilty EAU Eau de Toilette - Perfume Feminin,," 558,90                            ","10x de R$ 55,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,20779,Eau du Soir Sisley Eau de Parfum - Perfume Feminin,," 1839,90                            ","10x de R$ 183,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,22891,Boucheron Pour Femme Eau de Toilette - Perfume Fem,," 402,90                            ","8x de R$ 50,36",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,8847,Eau du Soir Sisley Eau de Parfum - Perfume Feminin,," 1049,90                            ","10x de R$ 104,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53898,Givenchy Very Irrésistible Eau de Parfum - Perfume,," 508,90                            ","10x de R$ 50,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,63915,Romantic Dream Paris Elysees Eau de Parfum - Perfu,"79,90"," 74,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69047,Idylle Guerlain Eau de Parfum - Perfume Feminino 5,," 489,90                            ","9x de R$ 54,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,66893,Lichia e Pimenta Phebo Eau de Parfum - Perfume Fem,"188,90"," 148,90","2x de R$ 74,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51920,Dream Shakira Eau de Toilette - Perfume Feminino 5,," 99,00",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,48732,Glam Giorgio Beverly Hills Eau de Parfum - Perfume,"140,00"," 94,00",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,70611,Authentic Woman Abercrombie & Fitch Eau de Parfum ,," 348,90                            ","6x de R$ 58,15",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,61107,Ibiza 24/7 Pool Party for Her Pacha Ibiza Eau de T,," 109,00","2x de R$ 54,50",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,14475,Iced by Café Eau de Toilette - Perfume Feminino 50,"157,90"," 134,90","2x de R$ 67,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51275,Classic Paris New Brand Eau de Parfum - Perfume Fe,"74,90"," 64,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,64259,Pepe Jeans For Her Eau de Parfum - Perfume Feminin,"239,90"," 235,90                            ","4x de R$ 58,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,17145,Love Love Love Agatha Ruiz de La Prada Eau de Toil,," 80,00",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,52977,Parfum de Nuit New Brand Eau de Parfum - Perfume F,," 74,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,22897,Jaïpur Bracelet Boucheron Eau de Parfum - Perfume ,"607,90"," 578,90                            ","10x de R$ 57,89",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45248,Dream Ana Hickmann Eau de Cologne - Perfume Femini,"99,90"," 79,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,50695,Cuba Copacabana Women Eau de Parfum - Perfume Femi,"48,90"," 46,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,21485,Ambre Gris Balmain Eau de Parfum - Perfume Feminin,"513,90"," 393,90                            ","7x de R$ 56,27",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45284,Femme Rochas Eau de Toilette - Perfume Feminino 10,"461,90"," 372,90                            ","7x de R$ 53,27",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45277,Eau de Rochas Eau de Toilette - Perfume Feminino 1,," 498,90                            ","9x de R$ 55,43",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7957,Classique Marina de Bourbon Eau de Parfum - Perfum,," 304,90                            ","6x de R$ 50,82",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7801,Éclat D'Arpège Lanvin Eau de Parfum - Perfume Femi,"240,90"," 228,90                            ","4x de R$ 57,23",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,9812,Jacomo For Her Eau de Parfum - Perfume Feminino 50,"313,90"," 239,90                            ","4x de R$ 59,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69015,Aqua Allegoria Pera Granita Guerlain Eau de Toilet,," 334,90                            ","6x de R$ 55,82",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69477,Kenzo World Power Eau de Parfum - Perfume Feminino,," 378,90                            ","7x de R$ 54,13",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,10159,Cabotine Gold Grès Eau de Toilette - Perfume Femin,"377,90"," 359,90                            ","7x de R$ 51,41",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,53056,Mademoiselle ROCHAS Eau de Toilette - Perfume Femi,," 408,90                            ","8x de R$ 51,11",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,70408,Angel Eau Croisière Mugler Eau de Toilette - Perfu,"428,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,32722,Emozione Salvatore Ferragamo Eau de Parfum - Perfu,"390,90"," 277,90                            ","5x de R$ 55,58",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16440,Chic-Issime Ulric de Varens Eau de Parfum - Perfum,"99,90"," 78,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,48907,Mercedes-Benz Woman Eau de Parfum - Perfume Femini,," 417,90                            ","8x de R$ 52,24",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69262,Eau My Secret Women'Secret Eau de Toilette - Perfu,"88,90"," 74,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51933,24/7 Pacha Ibiza Her Eau de Toilette - Perfume Fem,," 109,90","2x de R$ 54,95",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,42343,White Musk Monotheme Eau de Toilette - Perfume Fem,"157,90"," 134,90","2x de R$ 67,45",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,51024,Rebel Love Agatha Ruiz de La Prada Eau de Toilette,," 80,00",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,50693,Cuba Carnaval Women Eau de Parfum - Perfume Femini,," 48,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,73333,Joy Intense Dior Eau de Parfum - Perfume Feminino ,," 598,00                            ","6x de R$ 99,67",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,44751,Candy Cancan New Brand Eau de Parfum - Perfume Fem,," 74,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,64146,My 5th Avenue Elizabeth Arden Eau de Parfum - Perf,"350,90"," 333,90                            ","6x de R$ 55,65",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,69618,Cutter Jeans Day Vizcaya Eau de Toilette - Perfume,"69,90"," 58,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,7939,Intenso by Café Eau de Toilette - Perfume Feminino,"115,90"," 85,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,26250,Lumière Rose Grès Eau de Parfum - Perfume Feminino,," 420,90                            ","8x de R$ 52,61",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,64265,Mini Crazy Ulric de Varens Eau de Parfum - Perfume,"45,90"," 34,90",,False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,68795,Woman Intense Ralph Lauren Eau de Parfum - Perfume,"398,90"," 299,90                            ","6x de R$ 49,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,8008,Red Door Elizabeth Arden Eau de Toilette - Perfume,"260,90"," 239,90                            ","4x de R$ 59,98",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45257,Rêve d'Infini Lalique Eau de Parfum - Perfume Femi,"806,90"," 685,90                            ","10x de R$ 68,59",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,31900,Florever Agatha Ruiz de La Prada Eau de Toilette -,," 129,00","2x de R$ 64,50",False,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,8849,Soir de Lune Sisley Eau de Parfum - Perfume Femini,," 739,90                            ","10x de R$ 73,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67770,Luna Sorbet Nina Ricci Eau de Toilette - Perfume F,," 428,90                            ","8x de R$ 53,61",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,8846,Eau du Soir Sisley Eau de Parfum - Perfume Feminin,," 739,90                            ","10x de R$ 73,99",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,45253,Orissima Ted Lapidus Eau de Parfum - Perfume Femin,," 404,90                            ","8x de R$ 50,61",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,67771,Bella Sorbet Nina Ricci Eau de Toilette - Perfume ,," 428,90                            ","8x de R$ 53,61",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,16502,Lapidus Woman Ted Lapidus Eau de Toilette - Perfum,," 188,90                            ","3x de R$ 62,97",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
+perfumes,feminino,64827,Conjunto Bella Lips Nina Ricci Feminino - Eau de T,"428,90"," 378,90                            ","7x de R$ 54,13",True,2020-05-05 20:30:07.140249,05/05/20,20:30:07
